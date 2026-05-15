@@ -1,0 +1,53 @@
+Self-Introduction:
+==================
+ Hi, I’m Nagoor Shareef SK, and I have around 3 years of experience in the IT industry with a strong focus on DevOps engineering. I have hands-on experience in implementing CI/CD pipelines, 
+ automating infrastructure using Terraform and Ansible, and managing containerized applications using Docker and Kubernetes.
+
+I have been working at Dialtronics Systems Pvt Ltd for over 3 years as part of the central DevOps team, supporting multiple microservices-based applications hosted on hybrid infrastructure, 
+including AWS, VMware, and physical servers.I am currently handling two projects simultaneously, one of them IPPBX+ HA (Private Branch Exchange with High Availability), 
+second one AVC (Audio Call, Video Call, and Canteen Management System for Jail Prisoners),Since June 2023, I have been actively enhancing my DevOps skill set, particularly in GitHub Actions,
+container orchestration, and cloud-native deployments.
+
+I’m currently looking for a stable opportunity where I can apply my DevOps skills in a hands-on role and contribute to improving the reliability and scalability of systems.
+
+In my day-to-day responsibilities:
+==================================
+I manage a range of DevOps and cloud infrastructure tasks to ensure smooth CI/CD operations and application availability.
+
+My day typically begins with a daily stand-up (scrum call), where the team discusses project progress, blockers, and prioritizes tasks for the day. This helps align efforts and ensures 
+team collaboration.
+
+Post the meeting, I focus on CI/CD pipeline monitoring, particularly using Jenkins. I review the status of builds and deployments. In case of failed builds or pipeline errors, 
+I promptly investigate logs, identify root causes, and implement fixes to restore functionality.
+
+If Jenkins is operating as expected, I shift my focus to Kubernetes (K8s) cluster monitoring. I routinely check the health and performance of nodes and pods using tools like 
+kubectl, Grafana, or Prometheus. If a pod is in a crash loop or pending state, I troubleshoot by examining logs, events, and configurations, applying fixes as needed, 
+and informing the team about the resolution.
+
+I also create and manage Kubernetes manifest files (YAMLs) to define deployments, services, config maps, and other K8s resources. This ensures consistent and scalable deployment of applications
+across environments.
+
+Additionally, I collaborate closely with our cloud team to handle various AWS tasks. This includes provisioning and managing EBS volumes, S3 buckets, configuring IAM roles and policies, 
+and resolving VPC/subnet-related issues to ensure secure and efficient networking.
+
+Overall, my role is a blend of proactive monitoring, quick issue resolution, infrastructure as code (IaC), and collaboration to maintain a stable and automated environment.
+
+Roles and Responsibilities:
+===========================
+• Designed and maintained CI/CD pipelines using Jenkins and GitHub Actions to automate build, test, and deployment workflows.
+
+• Containerized Javabased microservices using Docker and deployed them into Kubernetes clusters on AWS.
+
+• Managed infrastructure using Terraform and automated server configuration using Ansible.
+
+• Handled routine infrastructure tasks including provisioning EC2 instances, managing S3 buckets, configuring IAM policies, and setting up VPCs.
+
+• Monitored systems using Nagios and AWS CloudWatch; resolved alerts related to performance, downtime, and resource limits.
+
+• Collaborated with developers and QA teams during daily standups, project planning, and release cycles.
+
+• Wrote shell scripts and Ansible playbooks for automation of deployments, patching, and routine maintenance.
+
+• Supported troubleshooting during L2 incidents via bridge calls and managed ticket workflows through ServiceNow.
+
+• Performed regular system backups using AMIs and EBS snapshots and managed storage related tasks such as EFS setup and volume resizing.  
