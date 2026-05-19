@@ -14,7 +14,7 @@ In my day-to-day responsibilities:
 ==================================
 I manage a range of DevOps and cloud infrastructure tasks to ensure smooth CI/CD operations and application availability.
 
-My day typically begins with a daily stand-up (scrum call), where the team discusses project progress, blockers, and prioritizes tasks for the day. This helps align efforts and ensures 
+My day typically begins with a daily stand-up (scrum call) where the team discusses project progress, identifies blockers, and prioritizes tasks for the day. This helps align efforts and ensures 
 team collaboration.
 
 Post the meeting, I focus on CI/CD pipeline monitoring, particularly using Jenkins. I review the status of builds and deployments. In case of failed builds or pipeline errors, 
